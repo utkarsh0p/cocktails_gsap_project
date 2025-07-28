@@ -4,7 +4,7 @@ import { gsap } from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import SplitText from "gsap/SplitText";
-import { Navbar , Hero } from './components'
+import { Navbar , Hero, Cocktails, About, Art, Menu, Contact} from './components'
 gsap.registerPlugin(ScrollTrigger)
 gsap.registerPlugin(SplitText)
 
@@ -14,6 +14,11 @@ function App() {
     <>
      <Navbar/>
     <Hero/>
+    <Cocktails/>
+    <About/>
+    <Art/>
+    <Menu/>
+    <Contact/>
     </>
   );
 }
