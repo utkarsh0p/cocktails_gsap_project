@@ -18,11 +18,11 @@ A modern, interactive frontend project built with **React**, **GSAP**, **Tailwin
 
 <p align="center">
   <span style="display: inline-block; vertical-align: top;">
-    <img src="/readme/small-top.png" alt="Small Top" width="100"><br>
-    <img src="/readme/small-bottom.png" alt="Small Bottom" width="100">
+    <img src="./readme/small-top.png" alt="Small Top" width="100"><br>
+    <img src="./readme/small-bottom.png" alt="Small Bottom" width="100">
   </span>
   <span style="display: inline-block; margin-left: 20px;">
-    <img src="/readme/big.png" alt="Big Image" width="300">
+    <img src="./readme/big.png" alt="Big Image" width="300">
   </span>
 </p>
 
